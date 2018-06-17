@@ -5,7 +5,6 @@ PugHUD is the official package used by twitch.tv/andy (and many others). It is d
 None of the packages come with maps, as it is something that Andy has never bothered to use, nor do I have the intention to add it until he specifically asks me for it.
 
 Note: PugHUD REQUIRES EmoTracker to work, as they are addon packages to the tracker program. You can obtain the tracker here: http://www.emosaru.com/emotracker/live/emotracker_setup.exe
-
  
 
 ### List of Packages:
