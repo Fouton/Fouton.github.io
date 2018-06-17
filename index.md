@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## PugHUD Official Packages
 
-You can use the [editor on GitHub](https://github.com/Fouton/Fouton.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+PugHUD is the official package used by twitch.tv/andy (and many others). It is designed specifically to fit into a nice square sized section of a stream, as well as be extremely simple both visually and functionally. The packages are made by Fouton, though others have helped contribute via suggestions, package code, or sprite links.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+None of the packages come with maps, as it is something that Andy has never bothered to use, nor do I have the intention to add it until he specifically asks me for it.
 
-### Markdown
+### List of Packages:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### [PugHUD](../blob/master/PugHUD.zip)
+This is the standard ALttP package used by Andy.
 
-```markdown
-Syntax highlighted code block
+#### - [PugHUD Keysanity](../blob/master/PugHUD_Keysanity.zip)
+This is the standard Keysanity package used by Andy.
 
-# Header 1
-## Header 2
-### Header 3
+#### - [PugHUD Mini](../blob/master/PugHUD_Mini.zip)
+This package is the original package, minus some useless items, allowing it to fit nicer in a smaller stream layout.
 
-- Bulleted
-- List
+#### - [PugHUD Mini Keysanity](../blob/master/PugHUD_Mini_Keys.zip)
+This package is the keysnaity package, minus some useless items, allowing it to fit nicer in a smaller stream layout.
 
-1. Numbered
-2. List
+#### - [ALttSM Randomizer](../blob/master/alttsm_itemsonly_fouton.zip)
+This package is the package many use for the ALttP and Super Metroid combo randomizer.
 
-**Bold** and _Italic_ and `Code` text
+#### - [ALttSM Keysanity Randomizer](../blob/master/alttsm_keysanity_itemsonly_fouton.zip)
+This package is for the upcoming (or perhaps since released) ALttP and Super Metroid Keysanity Randomizer.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fouton/Fouton.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### - [PugHUD for OoT](../blob/master/PugHUD_for_OoT.zip)
+This is for Ocarina of Time Randomizer, and is styled around the AlttP item looks. Each item is designed to look like it came from the SNES, whether its drawn specifically by me, or created as a modification of an alttp item. Many thanks to ChaosMiles for some of the excellent work, as well as a few others who created some of the sprites.
