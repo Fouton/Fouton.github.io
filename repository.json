@@ -4,6 +4,7 @@
     {
       "name": "PugHUD",
       "author": "Fouton",
+      "game_name":  "A Link to the Past Randomzier",
       "version": "1.0.1.1",
       "uid": "pughud",
       "link": "https://Fouton.github.io/PugHUD.zip"
@@ -11,6 +12,7 @@
     {
       "name": "PugHUD Keysanity",
       "author": "Fouton",
+      "game_name": "A Link to the Past Randomzier",
       "version": "1.0.1.1",
       "uid": "pughud_keysanity",
       "link": "https://Fouton.github.io/PugHUD_Keysanity.zip"
@@ -18,6 +20,7 @@
     {
       "name": "PugHUD Mini",
       "author": "Fouton",
+      "game_name": "A Link to the Past Randomzier",
       "version": "1.0.1.1",
       "uid": "pughud_mini",
       "link": "https://Fouton.github.io/PugHUD_Mini.zip"
@@ -25,6 +28,7 @@
     {
       "name": "PugHUD Mini Keysanity",
       "author": "Fouton",
+      "game_name": "A Link to the Past Randomzier",
       "version": "1.0.1.1",
       "uid": "pughud_mini_keys",
       "link": "https://Fouton.github.io/PugHUD_Mini_Keys.zip"
@@ -32,21 +36,24 @@
     {
       "name": "ALttSM Randomizer",
       "author": "Fouton",
-      "version": "1.0.0.3",
+      "game_name": "Super Metroid + LTTP Randomizer",
+      "version": "1.0.0.6",
       "uid": "alttsm_itemsonly_fouton",
       "link": "https://Fouton.github.io/alttsm_itemsonly_fouton.zip"
     },
     {
       "name": "ALttSM Keysanity Randomizer",
       "author": "Fouton",
-      "version": "1.0.0.0",
+      "game_name": "Super Metroid + LTTP Randomizer",
+      "version": "1.0.0.1",
       "uid": "alttsm_keysanity_itemsonly_fouton",
       "link": "https://Fouton.github.io/alttsm_keysanity_itemsonly_fouton.zip"
     },
     {
       "name": "PugHUD for OoT",
       "author": "Fouton",
-      "version": "1.0.0.0",
+      "game_name": "Ocarina of Time Randomizer",
+      "version": "1.0.0.3",
       "uid": "pughud_oot",
       "link": "https://Fouton.github.io/PugHUD_for_OoT.zip"
     }
