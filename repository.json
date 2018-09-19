@@ -4,11 +4,29 @@
     {
       "name": "PugHUD",
       "author": "Fouton",
-      "game_name":  "A Link to the Past Randomizer",
+      "game_name": "A Link to the Past Randomizer",
       "version": "1.1.0.0",
       "uid": "pughud",
-      "flags":  ["chathud"],
-      "link": "https://Fouton.github.io/PugHUD.zip"
+      "flags": [ "chathud" ],
+      "link": "https://Fouton.github.io/PugHUD.zip",
+      "variants": [
+        {
+          "name": "Classic",
+          "flags": [ "chathud" ]
+        },
+        {
+          "name": "Keysanity",
+          "flags": [ "chathud" ]
+        },
+        {
+          "name": "Mini",
+          "flags": [ "chathud" ]
+        },
+        {
+          "name": "Mini Keysanity",
+          "flags": [ "chathud" ]
+        }
+      ]
     },
     {
       "name": "ALttSM Randomizer",
@@ -17,7 +35,17 @@
       "version": "1.0.1.0",
       "uid": "alttsm_itemsonly_fouton",
       "flags": [ "chathud" ],
-      "link": "https://Fouton.github.io/alttsm_itemsonly_fouton.zip"
+      "link": "https://Fouton.github.io/alttsm_itemsonly_fouton.zip",
+      "variants": [
+        {
+          "name": "Classic",
+          "flags": [ "chathud" ]
+        },
+        {
+          "name": "Keysanity",
+          "flags": [ "chathud" ]
+        }
+      ]
     },
     {
       "name": "PugHUD for OoT",
