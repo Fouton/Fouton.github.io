@@ -44,7 +44,7 @@
         {
           "name": "Keysanity",
           "flags": [ "chathud" ]
-        }
+        },
         {
           "name": "Cwispy",
           "flags": [ "chathud" ]
