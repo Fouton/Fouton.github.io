@@ -39,15 +39,15 @@
       "variants": [
         {
           "name": "Classic",
-          "flags": [ "chathud" ]
+          "flags": [ "chathud", "autotracker" ]
         },
         {
           "name": "Keysanity",
-          "flags": [ "chathud" ]
+          "flags": [ "chathud", "autotracker" ]
         },
         {
           "name": "Cwispy",
-          "flags": [ "chathud" ]
+          "flags": [ "chathud", "autotracker" ]
         }
       ]
     },
