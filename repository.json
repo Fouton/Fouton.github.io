@@ -48,6 +48,10 @@
         {
           "name": "Cwispy",
           "flags": [ "chathud", "autotracker" ]
+        },
+        {
+          "name": "Bizhawk Autotracker",
+          "flags": [ "chathud", "autotracker" ]
         }
       ]
     },
