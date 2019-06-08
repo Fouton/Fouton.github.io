@@ -5,26 +5,26 @@
       "name": "PugHUD",
       "author": "Fouton",
       "game_name": "A Link to the Past Randomizer",
-      "version": "1.1.0.0",
+      "version": "1.1.0.1",
       "uid": "pughud",
-      "flags": [ "chathud" ],
+      "flags": [ "chathud", "autotracker" ],
       "link": "https://Fouton.github.io/PugHUD.zip",
       "variants": [
         {
           "name": "Classic",
-          "flags": [ "chathud" ]
+          "flags": [ "chathud", "autotracker"]
         },
         {
           "name": "Keysanity",
-          "flags": [ "chathud" ]
+          "flags": [ "chathud", "autotracker" ]
         },
         {
           "name": "Mini",
-          "flags": [ "chathud" ]
+          "flags": [ "chathud", "autotracker" ]
         },
         {
           "name": "Mini Keysanity",
-          "flags": [ "chathud" ]
+          "flags": [ "chathud", "autotracker" ]
         }
       ]
     },
