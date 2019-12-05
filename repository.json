@@ -5,7 +5,7 @@
       "name": "PugHUD",
       "author": "Fouton",
       "game_name": "A Link to the Past Randomizer",
-      "version": "1.1.0.5",
+      "version": "1.1.0.6",
       "uid": "pughud",
       "flags": [ "chathud", "autotracker" ],
       "link": "https://Fouton.github.io/PugHUD.zip",
