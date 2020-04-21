@@ -29,7 +29,7 @@
       ]
     },
     {
-      "name": "SMZ3 Randomizer",
+      "name": "PugHUD for SMZ3",
       "author": "Fouton",
       "game_name": "Super Metroid + LTTP Randomizer",
       "version": "1.0.3.1",
@@ -42,11 +42,11 @@
           "flags": [ "chathud", "autotracker" ]
         },
         {
-          "name": "Keysanity",
+          "name": "Cwispy",
           "flags": [ "chathud", "autotracker" ]
         },
         {
-          "name": "Cwispy",
+          "name": "Keysanity",
           "flags": [ "chathud", "autotracker" ]
         },
         {
