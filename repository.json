@@ -1,85 +1,80 @@
 {
-  "name": "PugHUD Official Packages",
-  "packages": [
-    {
-      "name": "PugHUD",
-      "author": "Fouton",
-      "game_name": "A Link to the Past Randomizer",
-      "version": "1.1.2.8",
-      "uid": "pughud",
-      "flags": [ "chathud", "autotracker" ],
-      "link": "https://Fouton.github.io/PugHUD.zip",
-      "variants": [
-        {
-          "name": "Classic",
-          "flags": [ "chathud", "autotracker"]
-        },
-        {
-          "name": "Keysanity",
-          "flags": [ "chathud", "autotracker" ]
-        },
-        {
-          "name": "Door Rando Keysanity",
-          "flags": [ "chathud", "autotracker" ]
-        },
-        {
-          "name": "Mini",
-          "flags": [ "chathud", "autotracker" ]
-        },
-        {
-          "name": "Mini Keysanity",
-          "flags": [ "chathud", "autotracker" ]
-        }
-      ]
-    },
-    {
-      "name": "PugHUD for SMZ3",
-      "author": "Fouton",
-      "game_name": "Super Metroid + LTTP Randomizer",
-      "version": "1.0.3.5",
-      "uid": "alttsm_itemsonly_fouton",
-      "flags": [ "chathud" ],
-      "link": "https://Fouton.github.io/alttsm_itemsonly_fouton.zip",
-      "variants": [
-        {
-          "name": "Classic",
-          "flags": [ "chathud", "autotracker" ]
-        },
-        {
-          "name": "Cwispy",
-          "flags": [ "chathud", "autotracker" ]
-        },
-        {
-          "name": "Keysanity",
-          "flags": [ "chathud", "autotracker" ]
-        },
-        {
-          "name": "Bizhawk Autotracker",
-          "flags": [ "chathud", "autotracker" ]
-        }
-      ]
-    },
-    {
-      "name": "PugHUD for OoT",
-      "author": "Fouton",
-      "game_name": "Ocarina of Time Randomizer",
-      "version": "1.0.1.2",
-      "uid": "pughud_oot",
-      "flags": [ "chathud" ],
-      "link": "https://Fouton.github.io/PugHUD_for_OoT.zip"
-    },
-    {
-      "name": "Mario Party: Bonus Stars",
-      "author": "Fouton",
-      "game_name": "Mario Party Superstars",
-      "version": "1.0.0.2",
-      "uid": "mpsuper",
-      "link": "https://Fouton.github.io/mpsuper.zip",
-      "variants": [
-        {
-          "name": "Multiple Options"
-        }
-      ]
-    }
-  ]
+	"name": "PugHUD Official Packages",
+	"packages": [{
+			"name": "PugHUD",
+			"author": "Fouton",
+			"game_name": "A Link to the Past Randomizer",
+			"version": "1.1.2.8",
+			"uid": "pughud",
+			"flags": ["chathud", "autotracker"],
+			"link": "https://Fouton.github.io/PugHUD.zip",
+			"variants": [{
+					"name": "Classic",
+					"flags": ["chathud", "autotracker"]
+				},
+				{
+					"name": "Keysanity",
+					"flags": ["chathud", "autotracker"]
+				},
+				{
+					"name": "Door Rando Keysanity",
+					"flags": ["chathud", "autotracker"]
+				},
+				{
+					"name": "Mini",
+					"flags": ["chathud", "autotracker"]
+				},
+				{
+					"name": "Mini Keysanity",
+					"flags": ["chathud", "autotracker"]
+				}
+			]
+		},
+		{
+			"name": "PugHUD for SMZ3",
+			"author": "Fouton",
+			"game_name": "Super Metroid + LTTP Randomizer",
+			"version": "1.0.3.5",
+			"uid": "alttsm_itemsonly_fouton",
+			"flags": ["chathud"],
+			"link": "https://Fouton.github.io/alttsm_itemsonly_fouton.zip",
+			"variants": [{
+					"name": "Classic",
+					"flags": ["chathud", "autotracker"]
+				},
+				{
+					"name": "Cwispy",
+					"flags": ["chathud", "autotracker"]
+				},
+				{
+					"name": "Keysanity",
+					"flags": ["chathud", "autotracker"]
+				},
+				{
+					"name": "Bizhawk Autotracker",
+					"flags": ["chathud", "autotracker"]
+				}
+			]
+		},
+		{
+			"name": "PugHUD for OoT",
+			"author": "Fouton",
+			"game_name": "Ocarina of Time Randomizer",
+			"version": "1.0.1.2",
+			"uid": "pughud_oot",
+			"flags": ["chathud"],
+			"link": "https://Fouton.github.io/PugHUD_for_OoT.zip"
+		},
+		{
+			"name": "Mario Party: Bonus Stars",
+			"author": "Fouton",
+			"game_name": "Mario Party Superstars",
+			"version": "1.0.0.2",
+			"uid": "mpsuper",
+			"link": "https://Fouton.github.io/mpsuper.zip",
+			"variants": [{
+				"name": "Multiple Options"
+			}]
+		}
+	]
 }
