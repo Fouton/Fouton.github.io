@@ -67,19 +67,6 @@
       "uid": "pughud_oot",
       "flags": [ "chathud" ],
       "link": "https://Fouton.github.io/PugHUD_for_OoT.zip"
-    },
-    {
-      "name": "Mario Party: Bonus Stars",
-      "author": "Fouton",
-      "game_name": "Mario Party Superstars",
-      "version": "1.0.0.2",
-      "uid": "mpsuper",
-      "link": "https://Fouton.github.io/mpsuper.zip"
-      "variants": [
-        {
-          "name": "Multiple Options",
-        }
-      ]
     }
   ]
 }
