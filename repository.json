@@ -75,6 +75,11 @@
       "version": "1.0.0.2",
       "uid": "mpsuper",
       "link": "https://Fouton.github.io/mpsuper.zip"
+      "variants": [
+        {
+          "name": "Multiple Options",
+        }
+      ]
     }
   ]
 }
