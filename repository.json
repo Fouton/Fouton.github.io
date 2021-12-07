@@ -33,7 +33,7 @@
 			"variants": [{
 					"name": "Classic & Cwispy",
 					"flags": ["chathud", "autotracker"]
-				}
+				},
 				{
 					"name": "Keysanity",
 					"flags": ["chathud", "autotracker"]
