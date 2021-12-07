@@ -9,23 +9,15 @@
 			"flags": ["chathud", "autotracker"],
 			"link": "https://Fouton.github.io/PugHUD.zip",
 			"variants": [{
-					"name": "Classic",
+					"name": "Items-only Packages",
 					"flags": ["chathud", "autotracker"]
 				},
 				{
-					"name": "Keysanity",
+					"name": "Keysanity & Door Rando Keysanity",
 					"flags": ["chathud", "autotracker"]
 				},
 				{
-					"name": "Door Rando Keysanity",
-					"flags": ["chathud", "autotracker"]
-				},
-				{
-					"name": "Mini",
-					"flags": ["chathud", "autotracker"]
-				},
-				{
-					"name": "Mini Keysanity",
+					"name": "+ Mini Variants",
 					"flags": ["chathud", "autotracker"]
 				}
 			]
@@ -39,23 +31,15 @@
 			"flags": ["chathud"],
 			"link": "https://Fouton.github.io/alttsm_itemsonly_fouton.zip",
 			"variants": [{
-					"name": "Classic",
+					"name": "Classic & Cwispy",
 					"flags": ["chathud", "autotracker"]
-				},
-				{
-					"name": "Cwispy",
-					"flags": ["chathud", "autotracker"]
-				},
+				}
 				{
 					"name": "Keysanity",
 					"flags": ["chathud", "autotracker"]
 				},
 				{
-					"name": "Bizhawk Autotracker",
-					"flags": ["chathud", "autotracker"]
-				},
-				{
-					"name": "Bizhawk Keysanity",
+					"name": "Bizhawk Autotracking Variants",
 					"flags": ["chathud", "autotracker"]
 				}
 			]
