@@ -63,6 +63,17 @@
 			"variants": [{
 				"name": "Multiple Layout Options"
 			}]
+		},
+		{
+			"name": "Multi-Purpose Counters",
+			"author": "Fouton",
+			"game_name": "Any",
+			"version": "1.0.0.0",
+			"uid": "multipurpose",
+			"link": "https://Fouton.github.io/multipurpose.zip",
+			"variants": [{
+				"name": "Easy, Editable, Counter Tracker w/ README"
+			}]
 		}
 	]
 }
