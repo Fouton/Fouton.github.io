@@ -65,6 +65,23 @@
 			}]
 		},
 		{
+			"name": "Paper Mario Item Tracker",
+			"author": "Fouton",
+			"game_name": "Paper Mario",
+			"version": "1.0.0.0",
+			"uid": "pape-items",
+			"link": "https://Fouton.github.io/pape-items.zip",
+			"variants": [{
+					"name": "Stars Ontop",
+					"flags": ["chathud"]
+				},
+				{
+					"name": "Chapter Ordered",
+					"flags": ["chathud"]
+				}
+			]
+		},
+		{
 			"name": "Multi-Purpose Counters",
 			"author": "Fouton",
 			"game_name": "Other",
