@@ -53,7 +53,7 @@
 			"name": "Mario Party: Bonus Stars",
 			"author": "Fouton",
 			"game_name": "Mario Party Superstars",
-			"version": "1.0.0.8",
+			"version": "1.0.1.0",
 			"uid": "mpsuper",
 			"link": "https://Fouton.github.io/mpsuper.zip",
 			"variants": [{
@@ -64,7 +64,7 @@
 			"name": "Paper Mario Item Tracker",
 			"author": "Fouton",
 			"game_name": "Paper Mario",
-			"version": "1.0.1.0",
+			"version": "1.0.0.7",
 			"uid": "pape-items",
 			"link": "https://Fouton.github.io/pape-items.zip",
 			"variants": [{
