@@ -44,7 +44,7 @@
 			"name": "PugHUD for OoT",
 			"author": "Fouton",
 			"game_name": "Ocarina of Time Randomizer",
-			"version": "1.0.2.0",
+			"version": "1.0.2.1",
 			"uid": "pughud_oot",
 			"flags": ["chathud", "autotracker"],
 			"link": "https://Fouton.github.io/PugHUD_for_OoT.zip"
