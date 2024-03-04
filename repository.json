@@ -97,6 +97,17 @@
 			]
 		},
 		{
+			"name": "Super Mario 64 Ability Randomizer",
+			"author": "Fouton",
+			"game_name": "Other",
+			"version": "1.0.0.0",
+			"uid": "sm64ability",
+			"link": "https://Fouton.github.io/sm64ability.zip",
+			"variants": [{
+				"name": "Text-only for now, icons soon"
+			}]
+		},
+		{
 			"name": "Multi-Purpose Counters",
 			"author": "Fouton",
 			"game_name": "Other",
