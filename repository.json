@@ -100,11 +100,11 @@
 			"name": "Super Mario 64 Ability Randomizer",
 			"author": "Fouton",
 			"game_name": "Super Mario 64",
-			"version": "1.0.0.5",
+			"version": "1.0.1.0",
 			"uid": "sm64ability",
 			"link": "https://Fouton.github.io/sm64ability.zip",
 			"variants": [{
-				"name": "Icon & Text versions"
+				"name": "Text & Icon versions"
 			}]
 		},
 		{
