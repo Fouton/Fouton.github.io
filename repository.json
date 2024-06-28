@@ -108,6 +108,14 @@
 			}]
 		},
 		{
+			"name": "WJBHUD for Triple Zelda",
+			"author": "Fouton",
+			"game_name": "Triple Zelda",
+			"version": "1.0.0.0",
+			"uid": "wjbhud_z123",
+			"link": "https://Fouton.github.io/wjbhud_z123.zip"
+		},
+		{
 			"name": "Multi-Purpose Counters",
 			"author": "Fouton",
 			"game_name": "Other",
